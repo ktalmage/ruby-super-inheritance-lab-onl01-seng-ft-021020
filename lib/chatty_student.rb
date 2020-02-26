@@ -10,4 +10,3 @@ class ChattyStudent < Student
     10.times do 
       
   end
-end
